@@ -1,0 +1,21 @@
+{
+  "name": "04blog",
+  "description": "blog",
+  "main": "",
+  "authors": [
+    "xinyeweiliang <1078270788@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/xinyeweiliang/04blog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
